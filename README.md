@@ -2,7 +2,7 @@
 
 Welcome to Connect Four with Python!
 
-Run ps9pr4.py to start playing the game!
+Run /Connect4AI.py to start playing the game!
 
 Use the following command to play with another player: connect_four(Player('X'), Player('O'))
 
